@@ -1,7 +1,7 @@
 {
     "name": "toka/sendportal-core",
     "homepage": "https://github.com/fsflex/sendportal-core",
-    "description": "Sendportal core functionality.",
+    "description": "Send portal core functionality.",
     "type": "library",
     "license": "MIT",
     "authors": [],
